@@ -6,23 +6,38 @@ In this study, CXRcovNet, an 11-layer custom-designed CNN model, and three state
 
 * Kay words: CXR, CXRcovNet, ResNet-50, AUC, VGG16, EfficientNetB3, X-ray, F1-score
 
-## 1. Model architecture
+# Model architecture:
+
+### 1. Combied Model architecture
 
 ![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/c75035b753ce1c5cd862e669176f521b4f7b3eb2/model%20arch.png)
 
-## 2. VGG 16 Base Model architecture
+### 2. VGG 16 Base Model architecture
 
 ![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/c75035b753ce1c5cd862e669176f521b4f7b3eb2/vgg16.png)
 
-## 3. VGG 16 Proposed Model architecture
+### 3. VGG 16 Proposed Model architecture
 
 ![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/c75035b753ce1c5cd862e669176f521b4f7b3eb2/vgg16proposed.png)
 
-## 4. EfficientNet B3 Proposed Model architecture
+### 4. EfficientNet B3 Proposed Model architecture
 
-![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/c75035b753ce1c5cd862e669176f521b4f7b3eb2/b3.png)
+![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/2666b679179cd9d4525004812009a32e404140b5/Proposed%20Efficient%20Net%20%E2%80%93B3%20architecture.png)
 
-## 5. Resnet 50 Proposed Model architecture
+### 5. Resnet 50 Proposed Model architecture
 
-![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/c75035b753ce1c5cd862e669176f521b4f7b3eb2/resnet50.png)
+![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/2666b679179cd9d4525004812009a32e404140b5/Proposed%20ResNet-50%20architecture.png)
+
+# results:
+### 1. Confusion metrics (CM) 
+### 2. Train loss vs validation loss
+### 3. ROC evaluation 
+### 4. Inference 
+### 5.Classification report summary ![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/af1e73339d8dd54a5eb89e51420fdee5be2494dc/classsification%20reprt.png)
+### 6.Model Comparison![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/af1e73339d8dd54a5eb89e51420fdee5be2494dc/modelcoma.png)
+
+
+
+
+
 
