@@ -30,11 +30,26 @@ In this study, CXRcovNet, an 11-layer custom-designed CNN model, and three state
 
 # results:
 ### 1. Confusion metrics (CM) 
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result.png)
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result1.png)
+
 ### 2. Train loss vs validation loss
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result3.png)
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result4.png)
 ### 3. ROC evaluation 
-### 4. Inference 
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result5.png)
+### 4. Infrence 
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/inference1.png)
+
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/inference.png)
+
+
 ### 5.Classification report summary ![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/af1e73339d8dd54a5eb89e51420fdee5be2494dc/classsification%20reprt.png)
 ### 6.Model Comparison![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/af1e73339d8dd54a5eb89e51420fdee5be2494dc/modelcoma.png)
+
+# Conclusion
+Our proposed pretrained (Efficient Net –B3 ,ResNet-50 and VGG-16) and CXRcovNet achieved promising results on a small prepared dataset which indicates that given more data, the proposed model can achieve better results with minimum pre-processing of data.
+Overall, the proposed model substantially advances the current radiology-based methodology and during COVID-19 pandemic, it can be very helpful tool for clinical practitioners and radiologists to aid them in diagnosis, quantification and follow-up of COVID-19 cases.
 
 
 
