@@ -28,6 +28,10 @@ In this study, CXRcovNet, an 11-layer custom-designed CNN model, and three state
 
 ![model architecture](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/2666b679179cd9d4525004812009a32e404140b5/Proposed%20ResNet-50%20architecture.png)
 
+### 6.CXRcovNet
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/5782718e479f140d74a8a057d3591df1d7b30e49/covnetpng.png)
+
+
 # results:
 ### 1. Confusion metrics (CM) 
 ![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result.png)
