@@ -34,13 +34,14 @@ In this study, CXRcovNet, an 11-layer custom-designed CNN model, and three state
 
 # results:
 ### 1. Confusion metrics (CM) 
-![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result.png)
+
 ![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result1.png)
 
 ### 2. Train loss vs validation loss
 ![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result3.png)
 ![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result4.png)
 ### 3. ROC evaluation 
+![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result.png)
 ![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/result5.png)
 ### 4. Infrence 
 ![image](https://github.com/ahmecse/COVID-19-detection-from-CXR-images-using-transfer-learning-approaches./blob/7911e661ae0d29ab073816b16f189662de3f00e7/inference1.png)
